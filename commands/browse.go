@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"os/exec"
 
-    "github.com/codegangsta/cli"
+    "github.com/urfave/cli"
 
 	"github.com/thash/asana/api"
 	"github.com/thash/asana/config"
